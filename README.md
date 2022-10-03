@@ -8,4 +8,4 @@
 
 <img src="https://github.com/SafronovRaff/Stepik_first_meeting/blob/main/sertifikat.jpg" alt="" style="max-width: 100%;">
 
-<p dir="auto">My cert: <a href="https://stepik.org/cert/806321" rel="nofollow">https://stepik.org/cert/1641532</a></p>
+<p dir="auto">My cert: <a href="https://stepik.org/cert/1641532" rel="nofollow">https://stepik.org/cert/1641532</a></p>
