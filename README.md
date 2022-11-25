@@ -1,4 +1,4 @@
-#Stepik_first_meeting
+# Stepik_first_meeting
 
 
 <p dir="auto">Course: <a href="https://stepik.org/course/100208/promo" rel="nofollow">https://stepik.org/course/100208/promo</a></p>
